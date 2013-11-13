@@ -1,0 +1,7 @@
+cruft*.txt
+*.log
+*.swp
+build/
+bin/
+out/
+
